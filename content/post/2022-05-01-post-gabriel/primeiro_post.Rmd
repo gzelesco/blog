@@ -1,0 +1,16 @@
+---
+title: "gabriel 2022-01-01"
+author: "Gabriel Zelesco"
+date: "01/05/2022"
+output: html_document
+---
+
+# Esse é o meu primeiro post
+
+posso escrever aqui
+
+```{r}
+a <- "mensagem"
+print(a)
+```
+
